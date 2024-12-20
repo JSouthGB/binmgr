@@ -1,0 +1,10 @@
+{
+  "programs": {
+    "bat": "sharkdp/bat",
+    "duf": "muesli/duf",
+    "eza": "eza-community/eza",
+    "gdu": "dundee/gdu",
+    "rclone": "rclone/rclone",
+    "lazydocker": "jesseduffield/lazydocker"
+  }
+}
